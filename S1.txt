@@ -16,4 +16,4 @@ check stash
 
 check stash in FLOW2
 
-changed made in master for rebase demonstration
+changed made in master for rebase demonstration FLOW 1 has to be rebased
