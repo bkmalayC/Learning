@@ -15,3 +15,5 @@ FLOW1 new commit
 check stash
 
 check stash in FLOW2
+
+changed made in master for rebase demonstration
