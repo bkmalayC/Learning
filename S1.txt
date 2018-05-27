@@ -12,4 +12,14 @@ FLOW1 new commit
 
 1st commit in  FLOW2
 
+
 committ after master base is 1 commit ahead
+
+check stash
+
+check stash in FLOW2
+
+changed made in master for rebase demonstration FLOW 1 has to be rebased
+
+committ after master base is 1 commit ahead
+need rebase
