@@ -12,8 +12,4 @@ FLOW1 new commit
 
 1st commit in  FLOW2
 
-check stash
-
-check stash in FLOW2
-
-changed made in master for rebase demonstration
+committ after master base is 1 commit ahead
